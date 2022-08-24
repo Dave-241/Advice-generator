@@ -4,4 +4,5 @@
 
 ## Welcome! 👋
 
+<p> This app is a fully responsive app that generates random advices using API </p>
 
